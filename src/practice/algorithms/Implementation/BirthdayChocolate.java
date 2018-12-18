@@ -11,7 +11,7 @@ import java.util.List;
  */
 
 public class BirthdayChocolate {
-    // Complete the birthday function below.
+    // This is a sliding window technique algorithm.
     static int birthday(List<Integer> s, int dSumofSquares, int mSquares) {
 
         int[] array = s.stream().mapToInt(i -> i).toArray();
