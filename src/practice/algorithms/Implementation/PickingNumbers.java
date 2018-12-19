@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * @author Anil Kumar C
  * @version 1.0
- * @see <a href="https://www.hackerrank.com/challenges/magic-square-forming/problem">problem</a>
+ * @see <a href="https://www.hackerrank.com/challenges/picking-numbers/problem">problem</a>
  * @since 2018-12-19
  */
 
