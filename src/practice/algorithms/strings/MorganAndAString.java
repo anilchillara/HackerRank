@@ -3,8 +3,8 @@ package practice.algorithms.strings;
 /**
  * @author Anil Kumar C
  * @version 1.0
- * @see <a href="https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem">problem</a>
- * @since 2018-12-19
+ * @see <a href="https://www.hackerrank.com/challenges/morgan-and-a-string/problem">problem</a>
+ * @since 2018-12-20
  *
  * Repeated chunks causing timeouts
  * For example, String a = "AAAAAAAABBBBCCCCBBB", String b = "AAAAAAAABBBBCCCCBBBB",
