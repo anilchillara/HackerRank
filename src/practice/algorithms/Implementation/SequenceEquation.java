@@ -23,10 +23,10 @@ public class SequenceEquation {
     static int[] permutationEquation(int[] p) {
         int n = p.length;
         int[] result = new int[n];
-        int count = 0;
+        int count = 0, i , j;
         for (int x = 1; x <= n; x++) {
-            int i = find(p, x);
-            int j = find(p, i);
+            i = find(p, x);
+            j = find(p, i);
             result[count++] = j;
         }
         return result;
