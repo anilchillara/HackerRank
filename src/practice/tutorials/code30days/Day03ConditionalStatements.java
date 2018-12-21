@@ -2,13 +2,6 @@ package practice.tutorials.code30days;
 
 
 import java.util.Scanner;
-import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
-import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
 
 /**
  * @author Anil Kumar C
