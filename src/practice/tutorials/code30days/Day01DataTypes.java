@@ -1,8 +1,8 @@
-package practice.tutorials.code30days.day0;
+package practice.tutorials.code30days;
 
 import java.util.Scanner;
 
-public class DataTypes {
+public class Day01DataTypes {
 
     public static void main(String[] args) {
         int i = 4;

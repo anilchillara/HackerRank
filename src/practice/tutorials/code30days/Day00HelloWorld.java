@@ -1,4 +1,4 @@
-package practice.tutorials.code30days.day0;
+package practice.tutorials.code30days;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @since 2018-12-17
  */
 
-public class HelloWorld {
+public class Day00HelloWorld {
     public static void main(String[] args) {
         // Create a Scanner object to read input from stdin.
         Scanner scan = new Scanner(System.in);

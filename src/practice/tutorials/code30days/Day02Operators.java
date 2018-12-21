@@ -1,4 +1,4 @@
-package practice.tutorials.code30days.day1;
+package practice.tutorials.code30days;
 
 /**
  * @author Anil Kumar C
@@ -7,7 +7,7 @@ package practice.tutorials.code30days.day1;
  * @since 2018-12-19
  */
 
-public class Operators {
+public class Day02Operators {
 
     static void solve(double meal_cost, int tip_percent, int tax_percent) {
         double tip = meal_cost * tip_percent / 100;
