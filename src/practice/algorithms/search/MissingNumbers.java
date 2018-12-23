@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 /**
  * @author Anil Kumar C
  * @version 1.0
- * @see <a href="https://www.hackerrank.com/challenges/sherlock-and-array/problem">problem</a>
+ * @see <a href="https://www.hackerrank.com/challenges/missing-numbers/problem">problem</a>
  * @since 2018-12-23
  */
 public class MissingNumbers {
