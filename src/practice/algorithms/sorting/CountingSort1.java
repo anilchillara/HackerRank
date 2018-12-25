@@ -5,7 +5,12 @@ import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
-
+/**
+ * @author Anil Kumar C
+ * @version 1.0
+ * @see <a href="https://www.hackerrank.com/challenges/countingsort1/problem">problem</a>
+ * @since 2018-12-25
+ */
 public class CountingSort1 {
 
     static int[] countingSort(int[] arr) {
